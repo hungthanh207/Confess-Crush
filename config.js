@@ -1,18 +1,15 @@
 const CONFIG = {
     titleWeb: "yêu Bé Đạt",
     introTitle: 'Trương Phương Anh',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Ốm một mình, đau cũng một mình. ĐẠT không thương em thì ai thương em đây?`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng Đạt đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    desc: 'Phải chăng đẠT đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Yêu lắm <33',
     btnNo: 'Không nha :3',
     question: 'Tại sao Đạt cute lại thích mình vậy:3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'tại vì bạn xin quá mà:3',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi hotel nha.',
     btnAccept: 'Okiiiii lun <3',
