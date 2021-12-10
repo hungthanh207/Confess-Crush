@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "yêu Bé Đạt",
+    titleWeb: "yêu Bé Đạt:3",
     introTitle: 'Trương Phương Anh',
     introDesc: `Ốm một mình, đau cũng một mình. ĐẠT không thương em thì ai thương em đây?`,
     btnIntro: '^^HiHi^^',
