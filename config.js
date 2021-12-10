@@ -15,6 +15,6 @@ const CONFIG = {
     reply: ':>Yêu bạn thì đâu cần lí do',
     mess: 'Yêu vợ nhìu nhìu',
     messDesc: 'Mong 2 ta gặp được nhau ở một ngày không xa:3',
-    btnAccept: 'Okiiiiii lun <3',
+    btnAccept: 'Okiiiiii lunn <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
